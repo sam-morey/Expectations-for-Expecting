@@ -105,8 +105,8 @@ aliases: [Home]
 > | [[03 - Ultrasound Guide]] | All ultrasound types; what the anatomy scan assesses |
 > | [[04 - Genetic Testing Overview]] | Chromosomal conditions; screening vs. diagnostic; carrier screening |
 > | [[05 - Miscarriage]] | Types, causes, risk factors, prevention, management, and recovery |
-| [[06 - Gestational Diabetes]] | Screening, diagnosis, management, and risks |
-| [[07 - Preeclampsia & Hypertension]] | Warning signs, types, treatment, and postpartum risk |
+> | [[06 - Gestational Diabetes]] | Screening, diagnosis, management, and risks |
+> | [[07 - Preeclampsia & Hypertension]] | Warning signs, types, treatment, and postpartum risk |
 
 
 ---
@@ -123,8 +123,8 @@ Complete packing list for birthing person, partner, and baby
 > | [[03 - Breastfeeding Basics]] | What to expect; latch; common challenges; stopping |
 > | [[04 - Newborn Care Basics]] | Normal newborn behavior; feeding; umbilical cord; soothing |
 > | [[05 - Returning to Exercise Postpartum]] | Timeline; diastasis recti; pelvic floor; warning signs |
-| [[06 - Bottle & Formula Feeding Basics]] | Formula types, safety, logistics, and emotional aspect |
-| [[07 - Postpartum for Partners]] | Partner's role, mental health, bonding, and relationship maintenance |
+> | [[06 - Bottle & Formula Feeding Basics]] | Formula types, safety, logistics, and emotional aspect |
+> | [[07 - Postpartum for Partners]] | Partner's role, mental health, bonding, and relationship maintenance |
 
 
 ---
@@ -138,9 +138,9 @@ Complete packing list for birthing person, partner, and baby
 > | [[02 - Nursery Setup Guide]] | Essentials; nice-to-have; setup timeline |
 > | [[03 - Baby Gear Essentials]] | Tier 1/2/3 gear; what to skip |
 > | [[04 - Car Seat Safety]] | Types; installation; harness fit; inspection |
-| [[05 - Preparing Pets for Baby]] | Early prep, introductions, and safety |
-| [[06 - Preparing Siblings for Baby]] | When to tell, preparation, meeting, and managing the shift |
-| [[07 - Traveling with an Infant]] | Flying, road trips, gear, and safe sleep on the road |
+> | [[05 - Preparing Pets for Baby]] | Early prep, introductions, and safety |
+> | [[06 - Preparing Siblings for Baby]] | When to tell, preparation, meeting, and managing the shift |
+> | [[07 - Traveling with an Infant]] | Flying, road trips, gear, and safe sleep on the road |
 
 
 > [!note]- 💡 Parenting Philosophy
@@ -169,7 +169,7 @@ Complete packing list for birthing person, partner, and baby
 > | [[02 - Budgeting for Baby]] | Budget framework; leave income projection; pre-baby goals |
 > | [[03 - Insurance & Benefits Planning]] | Health coverage; life insurance; leave benefits; tax benefits |
 > | [[04 - Childcare Costs & Planning]] | Options compared; cost by geography; waitlists; tax savings |
-| [[05 - Transitioning Back to Work]] | Logistics, pumping at work, new routines, and emotional transition |
+> | [[05 - Transitioning Back to Work]] | Logistics, pumping at work, new routines, and emotional transition |
 
 
 > [!note]- 💑 Relationship & Marriage
@@ -179,7 +179,7 @@ Complete packing list for birthing person, partner, and baby
 > | [[02 - Preparing Your Partnership for Parenthood]] | Gottman research; the 33% who thrive; division of labor conversation |
 > | [[03 - Dividing Labor After Baby]] | Mental load; fair division framework; recalibration |
 > | [[04 - Intimacy During Pregnancy]] | Safety; trimester changes; communication; postpartum expectations |
-| [[05 - Managing Family & Visitors]] | Postpartum bubble, boundary templates, and safety rules |
+> | [[05 - Managing Family & Visitors]] | Postpartum bubble, boundary templates, and safety rules |
 
 
 ---
