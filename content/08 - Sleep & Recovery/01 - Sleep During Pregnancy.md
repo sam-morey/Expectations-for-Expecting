@@ -2,8 +2,6 @@
 
 ---
 
-# Sleep During Pregnancy
-
 Sleep is profoundly affected by pregnancy — from early hormonal changes through the physical discomforts of the third trimester. Understanding what's happening and what actually helps makes the difference between surviving the nights and managing them.
 
 ---
@@ -88,4 +86,4 @@ Napping is beneficial when nighttime sleep is severely disrupted. Key considerat
 
 ---
 
-*→ See [[02 - Sleep Positions & Safety]] · [[03 - Managing Fatigue]] · [[Stress & Recovery During Pregnancy]] · [[04 - Third Trimester]]*
+*→ See [[02 - Sleep Positions & Safety]] · [[03 - Managing Fatigue]] · [[04 - Third Trimester]]*

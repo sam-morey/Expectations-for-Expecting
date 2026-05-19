@@ -2,8 +2,6 @@
 
 ---
 
-# Relationship During Pregnancy
-
 Pregnancy changes the relationship — not just the family. The physical and emotional experience is asymmetric, the life transition is enormous, and the couple is simultaneously becoming something new while maintaining what already exists.
 
 ---

@@ -2,8 +2,6 @@
 
 ---
 
-# Budgeting for Baby
-
 A practical framework for understanding and managing the financial transition of adding a child.
 
 ---

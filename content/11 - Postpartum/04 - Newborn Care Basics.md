@@ -2,8 +2,6 @@
 
 ---
 
-# Newborn Care Basics
-
 A practical reference for the first weeks with a newborn. Everything is learnable. Confidence comes from doing, not from reading.
 
 ---

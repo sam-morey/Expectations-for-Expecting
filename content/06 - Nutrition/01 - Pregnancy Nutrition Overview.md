@@ -2,8 +2,6 @@
 
 ---
 
-# Pregnancy Nutrition Overview
-
 Pregnancy nutrition is not about eating for two — it's about eating better for one, then gradually increasing calories as the pregnancy progresses. Most of what a pregnant woman eats every day matters more for the baby's development than any supplement.
 
 ---

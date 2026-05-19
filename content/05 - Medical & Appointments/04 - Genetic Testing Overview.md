@@ -2,8 +2,6 @@
 
 ---
 
-# Genetic Testing Overview
-
 Prenatal genetic testing helps parents understand if their baby has certain chromosomal or genetic conditions. It is optional — the decision to test involves medical, personal, and ethical considerations that are entirely individual.
 
 ---
@@ -98,4 +96,4 @@ Being a carrier generally means no personal health impact — but if both partne
 
 ---
 
-*→ See [[02 - Prenatal Tests & Screenings]] · [[01 - Prenatal Appointment Schedule]] · [[Medical Decisions During Pregnancy]]*
+*→ See [[02 - Prenatal Tests & Screenings]] · [[01 - Prenatal Appointment Schedule]]*

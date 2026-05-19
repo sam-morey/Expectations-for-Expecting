@@ -2,8 +2,6 @@
 
 ---
 
-# Fetal Movement & Kicks
-
 Feeling your baby move is one of the most profound experiences of pregnancy — and also an important indicator of fetal wellbeing. Understanding what's normal helps parents know when to relax and when to call.
 
 ---

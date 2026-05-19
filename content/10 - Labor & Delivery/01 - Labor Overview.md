@@ -2,8 +2,6 @@
 
 ---
 
-# Labor Overview
-
 Labor is the process by which the uterus contracts to dilate the cervix and eventually expel the baby. Understanding how labor progresses — and what's normal at each stage — reduces fear and improves decision-making.
 
 ---

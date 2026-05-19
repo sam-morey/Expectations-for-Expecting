@@ -2,8 +2,6 @@
 
 ---
 
-# Prenatal Vitamins & Supplements
-
 A prenatal vitamin fills nutritional gaps — it does not replace a healthy diet, but provides critical insurance for nutrients that are difficult to get sufficiently through food alone during pregnancy.
 
 ---

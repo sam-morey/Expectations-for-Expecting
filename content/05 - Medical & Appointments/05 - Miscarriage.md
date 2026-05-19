@@ -1,8 +1,6 @@
-← [[04 - Genetic Testing Overview]] | [[Home]]
+← [[04 - Genetic Testing Overview]] | [[Home]] | [[06 - Gestational Diabetes]] →
 
 ---
-
-# Miscarriage
 
 Miscarriage is the loss of a pregnancy before 20 weeks. It is the most common complication of early pregnancy — affecting roughly 10–20% of confirmed pregnancies — and far more common than most people realize before it happens to them. Understanding what it is, why it happens, and what comes next can reduce fear and help you respond clearly if it occurs.
 
@@ -185,4 +183,4 @@ Miscarriage is a loss. Grief is normal — and it does not scale with gestationa
 
 ---
 
-*→ See [[02 - Prenatal Tests & Screenings]] · [[04 - Genetic Testing Overview]] · [[02 - First Trimester]] · [[02 - Anxiety & Prenatal Worry]] · [[Miscarriage Is Almost Always Caused by Chromosomal Abnormality]]*
+*→ See [[02 - Prenatal Tests & Screenings]] · [[06 - Gestational Diabetes]] · [[07 - Preeclampsia & Hypertension]] · [[02 - First Trimester]] · [[02 - Anxiety & Prenatal Worry]] · [[Miscarriage Is Almost Always Caused by Chromosomal Abnormality]]*

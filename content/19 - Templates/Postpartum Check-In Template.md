@@ -1,5 +1,3 @@
-# Postpartum Check-In Template
-
 Use weekly during the first 8 weeks; monthly thereafter. Tracking the transition supports both physical recovery and mental health awareness.
 
 ---

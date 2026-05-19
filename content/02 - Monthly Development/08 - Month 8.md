@@ -2,8 +2,6 @@
 
 ---
 
-# Month 8 — Weeks 32–35
-
 Month 8 is the final full month before term. Baby's lungs and brain are the last systems to fully mature. Prenatal appointments increase in frequency, and labor preparation begins in earnest.
 
 ---

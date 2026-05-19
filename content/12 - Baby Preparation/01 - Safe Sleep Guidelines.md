@@ -2,8 +2,6 @@
 
 ---
 
-# Safe Sleep Guidelines
-
 Safe sleep practices are the most evidence-backed intervention for reducing the risk of Sudden Infant Death Syndrome (SIDS) and sleep-related infant deaths. The guidelines are non-negotiable for every sleep, every time.
 
 ---

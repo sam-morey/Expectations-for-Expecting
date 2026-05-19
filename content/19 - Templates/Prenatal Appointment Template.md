@@ -1,5 +1,3 @@
-# Prenatal Appointment Template
-
 Copy for each appointment.
 
 ---

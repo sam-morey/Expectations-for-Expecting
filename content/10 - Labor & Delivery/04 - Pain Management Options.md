@@ -2,8 +2,6 @@
 
 ---
 
-# Pain Management Options
-
 Labor pain is real, intense, and manageable. Understanding what's available — and what each option involves — allows for an informed, flexible approach rather than a decision made under duress.
 
 ---

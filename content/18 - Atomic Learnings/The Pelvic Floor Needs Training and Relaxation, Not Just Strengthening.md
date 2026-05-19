@@ -1,5 +1,3 @@
-# The Pelvic Floor Needs Training and Relaxation, Not Just Strengthening
-
 The standard advice for pregnancy pelvic floor preparation — "do your Kegels" — is incomplete. A pelvic floor that cannot relax and lengthen during the second stage of labor is as problematic as one that is too weak.
 
 Two out of three pelvic floor dysfunctions in pregnancy are hypertonic (too tight), not hypotonic (too weak). For these women, more Kegels make the problem worse. A hypertonic pelvic floor doesn't lengthen during pushing, increases tearing risk, and causes pain.

@@ -2,8 +2,6 @@
 
 ---
 
-# Registry Guide
-
 A baby registry is both a practical tool and a gift guidance document. Building a good one requires resisting the urge to add everything you see, and instead identifying what you'll actually use.
 
 ---

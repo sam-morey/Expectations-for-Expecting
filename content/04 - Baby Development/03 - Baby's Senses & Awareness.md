@@ -2,8 +2,6 @@
 
 ---
 
-# Baby's Senses & Awareness
-
 Long before birth, babies are actively experiencing and processing the world inside the womb. Understanding when each sense comes online reveals how much of parenthood has already begun.
 
 ---

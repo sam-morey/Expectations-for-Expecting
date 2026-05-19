@@ -2,8 +2,6 @@
 
 ---
 
-# Month 7 — Weeks 28–31
-
 Month 7 begins the third trimester. Baby is gaining weight rapidly and the brain is in an explosive growth phase. Physical discomforts intensify as the uterus presses further into the abdominal cavity.
 
 ---

@@ -2,8 +2,6 @@
 
 ---
 
-# Birth Plan Guide
-
 A birth plan communicates your preferences and values to your care team. It is not a contract or a guarantee — labor is unpredictable — but it ensures your voice is heard and reduces in-the-moment decision-making under stress.
 
 ---

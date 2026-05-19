@@ -1,8 +1,6 @@
-← [[03 - Baby Gear Essentials]] | [[Home]]
+← [[03 - Baby Gear Essentials]] | [[Home]] | [[05 - Preparing Pets for Baby]] →
 
 ---
-
-# Car Seat Safety
 
 The car seat is the single most important safety purchase for a new baby. Installation errors are extremely common — even among parents who believe they've done it correctly.
 
@@ -90,4 +88,4 @@ Car seats expire — typically 6–10 years from manufacture date (stamped on th
 
 ---
 
-*→ See [[03 - Baby Gear Essentials]] · [[02 - Nursery Setup Guide]] · [[05 - Hospital Bag Checklist]]*
+*→ See [[03 - Baby Gear Essentials]] · [[02 - Nursery Setup Guide]] · [[05 - Preparing Pets for Baby]] · [[06 - Preparing Siblings for Baby]]*

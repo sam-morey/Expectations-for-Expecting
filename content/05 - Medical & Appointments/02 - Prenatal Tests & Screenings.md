@@ -2,8 +2,6 @@
 
 ---
 
-# Prenatal Tests & Screenings
-
 Prenatal testing ranges from routine monitoring (included at every appointment) to optional genetic screening. Understanding what each test is, what it measures, and what the results mean enables informed decision-making.
 
 ---

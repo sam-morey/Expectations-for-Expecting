@@ -2,8 +2,6 @@
 
 ---
 
-# Pelvic Floor & Core Training
-
 The pelvic floor is one of the most important areas to train during pregnancy — and one of the most neglected. A strong, functional pelvic floor supports the growing uterus, reduces incontinence, aids in labor and delivery, and accelerates postpartum recovery.
 
 ---

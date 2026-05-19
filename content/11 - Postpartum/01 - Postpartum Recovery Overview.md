@@ -2,8 +2,6 @@
 
 ---
 
-# Postpartum Recovery Overview
-
 The postpartum period — the fourth trimester — is one of the most significant and least-prepared-for phases of new parenthood. Physical recovery, hormonal upheaval, sleep deprivation, and emotional adjustment happen simultaneously. Understanding what to expect makes it survivable.
 
 ---

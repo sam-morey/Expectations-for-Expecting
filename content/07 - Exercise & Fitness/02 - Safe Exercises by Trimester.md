@@ -2,8 +2,6 @@
 
 ---
 
-# Safe Exercises by Trimester
-
 A practical guide to exercise choices at each stage, with specific modifications as the pregnancy progresses.
 
 ---

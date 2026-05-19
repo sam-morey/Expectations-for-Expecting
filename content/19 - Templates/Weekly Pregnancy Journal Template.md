@@ -1,5 +1,3 @@
-# Weekly Pregnancy Journal Template
-
 Copy for each week. Use as a living record of the pregnancy experience.
 
 ---

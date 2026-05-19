@@ -2,8 +2,6 @@
 
 ---
 
-# Postpartum Mental Health
-
 Postpartum mental health conditions are common, treatable, and often undiagnosed. They are caused by a combination of hormonal upheaval, sleep deprivation, physical recovery, and identity transition — not personal weakness.
 
 ---

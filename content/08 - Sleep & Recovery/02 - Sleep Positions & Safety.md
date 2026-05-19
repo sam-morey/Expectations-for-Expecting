@@ -2,8 +2,6 @@
 
 ---
 
-# Sleep Positions & Safety
-
 Guidance on safe sleeping positions during pregnancy, with context on why the recommendations exist and what the risks actually are.
 
 ---

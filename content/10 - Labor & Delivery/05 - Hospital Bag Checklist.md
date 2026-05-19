@@ -2,8 +2,6 @@
 
 ---
 
-# Hospital Bag Checklist
-
 Pack by week 36. Keep the bag in the car or near the door for the last weeks of pregnancy.
 
 ---

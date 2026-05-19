@@ -1,5 +1,3 @@
-# Safe Sleep Rules Apply Every Time, Not Just Most Times
-
 The ABCs of safe sleep — Alone, on Back, in a Crib — apply to every sleep, without exception. Not most of the time. Not when it's convenient. Every time.
 
 SIDS and sleep-related deaths are rare but unpredictable. They occur to parents who are careful, loving, and informed. The safe sleep guidelines represent the single most evidence-based intervention available to reduce this risk — a reduction of over 50% since "Back to Sleep" became a public health campaign in 1994.

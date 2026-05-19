@@ -2,8 +2,6 @@
 
 ---
 
-# Month 3 — Weeks 9–13
-
 Month 3 closes the first trimester. Nausea and fatigue begin to ease for most women toward the end of this month. The embryo officially becomes a fetus, and miscarriage risk drops substantially.
 
 ---

@@ -2,8 +2,6 @@
 
 ---
 
-# Month 6 — Weeks 23–27
-
 Month 6 closes the second trimester. Baby crosses the viability threshold and the pregnancy enters the phase of rapid weight gain and brain development. The glucose test occurs this month.
 
 ---

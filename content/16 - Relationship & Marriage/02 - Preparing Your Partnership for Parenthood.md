@@ -2,8 +2,6 @@
 
 ---
 
-# Preparing Your Partnership for Parenthood
-
 The transition to parenthood is one of the most significant tests a partnership undergoes. Research consistently shows a dip in relationship satisfaction in the first year after a baby — not because something went wrong, but because the transition is genuinely hard. Preparation helps.
 
 ---

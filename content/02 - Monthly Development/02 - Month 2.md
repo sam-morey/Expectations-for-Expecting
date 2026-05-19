@@ -2,8 +2,6 @@
 
 ---
 
-# Month 2 — Weeks 5–8
-
 Month 2 is when pregnancy becomes unmistakable in the body — nausea, fatigue, and breast changes typically peak. Internally, the embryo undergoes the most critical phase of organ formation.
 
 ---

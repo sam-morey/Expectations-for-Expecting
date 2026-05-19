@@ -1,5 +1,3 @@
-# Key Books on Pregnancy & Parenting
-
 Curated reading list organized by category. Not an exhaustive list — a focused one of the books most worth reading.
 
 ---

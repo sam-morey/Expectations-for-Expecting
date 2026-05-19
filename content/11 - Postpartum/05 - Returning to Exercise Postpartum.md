@@ -1,8 +1,6 @@
-← [[04 - Newborn Care Basics]] | [[Home]]
+← [[04 - Newborn Care Basics]] | [[Home]] | [[06 - Bottle & Formula Feeding Basics]] →
 
 ---
-
-# Returning to Exercise Postpartum
 
 Returning to exercise postpartum requires more patience than most fitness-oriented people expect. The body underwent 9+ months of structural change; returning safely takes weeks to months, not days.
 
@@ -96,4 +94,4 @@ Be patient with the timeline. The goal is returning to full function — not rus
 
 ---
 
-*→ See [[01 - Postpartum Recovery Overview]] · [[03 - Pelvic Floor & Core Training]] · [[01 - Exercise During Pregnancy Overview]]*
+*→ See [[01 - Postpartum Recovery Overview]] · [[06 - Bottle & Formula Feeding Basics]] · [[07 - Postpartum for Partners]] · [[05 - Returning to Exercise Postpartum]]*

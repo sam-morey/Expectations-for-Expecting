@@ -2,8 +2,6 @@
 
 ---
 
-# Dividing Labor After Baby
-
 How household and childcare labor is divided after a baby arrives is one of the top predictors of postpartum relationship satisfaction. It rarely divides itself — it requires explicit planning and ongoing renegotiation.
 
 ---

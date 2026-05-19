@@ -2,8 +2,6 @@
 
 ---
 
-# Month 1 — Weeks 1–4
-
 The first month is largely invisible — most women don't know they're pregnant until week 4 or 5 when a missed period triggers a test. Conception occurs around week 2, and by week 4, implantation is complete.
 
 ---

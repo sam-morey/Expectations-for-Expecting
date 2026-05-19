@@ -2,8 +2,6 @@
 
 ---
 
-# Symptoms by Trimester
-
 A comprehensive reference for what to expect physically across all three trimesters, with context on why each symptom occurs and when to contact a provider.
 
 ---

@@ -2,8 +2,6 @@
 
 ---
 
-# Sleep Training Approaches
-
 Sleep training is one of the most debated parenting decisions — and one that research shows is largely safe regardless of method, provided it is done when developmentally appropriate. The "right" approach is the one that works for your family.
 
 ---

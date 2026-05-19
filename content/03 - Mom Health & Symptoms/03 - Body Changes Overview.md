@@ -2,8 +2,6 @@
 
 ---
 
-# Body Changes Overview
-
 Pregnancy produces more physical changes than almost any other life event. Understanding what's happening and why reduces anxiety and helps set accurate expectations.
 
 ---

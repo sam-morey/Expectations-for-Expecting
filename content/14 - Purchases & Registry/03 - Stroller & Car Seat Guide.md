@@ -2,8 +2,6 @@
 
 ---
 
-# Stroller & Car Seat Guide
-
 Two of the biggest purchase decisions in baby gear — and the two that most require research before buying. Compatibility, lifestyle, and safety criteria all matter.
 
 ---

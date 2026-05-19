@@ -2,8 +2,6 @@
 
 ---
 
-# Morning Sickness & Nausea
-
 Morning sickness is a misnomer — pregnancy nausea can strike at any time of day. It affects 70–80% of pregnancies and is caused primarily by rising hCG and estrogen. It is uncomfortable but in most cases a sign of a healthy pregnancy.
 
 ---
@@ -84,4 +82,4 @@ What to say to yourself: The nausea is a sign of a healthy pregnancy. It will no
 
 ---
 
-*→ See [[01 - Symptoms by Trimester]] · [[02 - First Trimester]] · [[01 - Pregnancy Nutrition Overview]] · [[Mental & Emotional Changes During Pregnancy]]*
+*→ See [[01 - Symptoms by Trimester]] · [[02 - First Trimester]] · [[01 - Pregnancy Nutrition Overview]] · [[01 - Emotional Changes During Pregnancy]]*

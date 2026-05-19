@@ -2,8 +2,6 @@
 
 ---
 
-# Parenting Style Overview
-
 Parenting "styles" describe patterns of responsiveness and demandingness — not rigid categories. Most parents blend approaches, and what works shifts as children develop. The goal is raising a secure, capable, emotionally healthy person.
 
 ---

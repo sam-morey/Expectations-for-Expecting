@@ -2,8 +2,6 @@
 
 ---
 
-# Breastfeeding Basics
-
 Breastfeeding is beneficial when it works and when it's wanted — and it is also hard, painful at first, and not always possible. Knowing the basics reduces the gap between expectation and reality.
 
 ---

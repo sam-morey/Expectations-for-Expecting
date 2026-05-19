@@ -2,8 +2,6 @@
 
 ---
 
-# Financial Impact of a Baby
-
 A baby fundamentally changes household finances. Understanding the full scope of costs — one-time, recurring, and opportunity — allows for realistic planning rather than surprise.
 
 ---

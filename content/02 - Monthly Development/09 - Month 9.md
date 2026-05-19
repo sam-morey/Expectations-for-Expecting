@@ -2,8 +2,6 @@
 
 ---
 
-# Month 9 — Weeks 36–40+
-
 The final month. Baby is fully developed and waiting. The cervix begins ripening, contractions may start and stop, and every day closer to the due date — and beyond — is baby continuing to prepare.
 
 ---

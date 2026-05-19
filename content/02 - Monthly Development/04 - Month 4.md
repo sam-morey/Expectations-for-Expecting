@@ -2,8 +2,6 @@
 
 ---
 
-# Month 4 — Weeks 14–17
-
 Month 4 opens the second trimester. For most women, this is the most comfortable stretch of pregnancy — nausea is gone, energy is back, and the bump is just becoming visible. Baby is growing rapidly.
 
 ---

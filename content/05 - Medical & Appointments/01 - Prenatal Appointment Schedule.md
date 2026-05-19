@@ -2,8 +2,6 @@
 
 ---
 
-# Prenatal Appointment Schedule
-
 Prenatal care follows a predictable schedule that intensifies as pregnancy progresses. The frequency of appointments reflects the increasing complexity of monitoring as delivery approaches.
 
 ---

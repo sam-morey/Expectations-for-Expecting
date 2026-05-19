@@ -1,5 +1,3 @@
-# Birth Plan Template
-
 Keep to one page. Print multiple copies for hospital bag.
 
 ---

@@ -2,8 +2,6 @@
 
 ---
 
-# Third Trimester
-
 **Weeks 28–40**
 
 The third trimester is the final stretch — baby gains most of their weight, organs finish maturing, and both mom and baby prepare for birth. Physical discomfort increases as the uterus reaches full size.

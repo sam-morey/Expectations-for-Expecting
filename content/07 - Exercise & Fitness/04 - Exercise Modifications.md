@@ -2,8 +2,6 @@
 
 ---
 
-# Exercise Modifications
-
 As pregnancy progresses, specific exercises require modification to maintain safety, manage comfort, and protect the pelvic floor and abdominal wall. This is a reference for adapting common movements by trimester.
 
 ---

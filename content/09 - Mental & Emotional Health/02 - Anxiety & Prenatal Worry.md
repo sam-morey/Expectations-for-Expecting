@@ -2,8 +2,6 @@
 
 ---
 
-# Anxiety & Prenatal Worry
-
 Some anxiety about pregnancy, birth, and parenthood is normal. Persistent, intrusive, or disabling anxiety is a medical condition that deserves treatment — not dismissal.
 
 ---

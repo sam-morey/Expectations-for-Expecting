@@ -2,8 +2,6 @@
 
 ---
 
-# Month 5 — Weeks 18–22
-
 Month 5 is marked by two milestone events: the anatomy scan and first confirmed fetal movement. The pregnancy becomes real in a new way this month — visible from the outside and felt from the inside.
 
 ---

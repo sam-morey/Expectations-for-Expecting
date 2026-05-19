@@ -2,8 +2,6 @@
 
 ---
 
-# First Trimester
-
 **Weeks 1–13**
 
 The first trimester is the most critical developmental period. All major organ systems form during these weeks. It is also typically the most symptomatic phase for mom — nausea, fatigue, and emotional adjustment are common.

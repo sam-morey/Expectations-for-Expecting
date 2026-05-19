@@ -2,8 +2,6 @@
 
 ---
 
-# Values & Intentions as Parents
-
 Articulating what you believe as parents — before the chaos of a newborn makes reflection impossible — creates an anchor. These aren't rules; they're north stars to return to when decisions are hard.
 
 ---

@@ -2,8 +2,6 @@
 
 ---
 
-# Managing Fatigue
-
 Fatigue during pregnancy is not ordinary tiredness — it is a physiological state driven by massive hormonal and metabolic changes. Understanding why it happens, when it's worst, and how to manage it reduces the frustration of feeling so tired when everything looks fine from the outside.
 
 ---

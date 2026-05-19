@@ -2,8 +2,6 @@
 
 ---
 
-# Preparing for Parenthood Mentally
-
 The mental and psychological preparation for becoming a parent is at least as important as the physical preparation — and far less discussed. No amount of gear, nursery decoration, or book reading fully prepares you. But intentional reflection can reduce the shock of the transition.
 
 ---
@@ -66,4 +64,4 @@ These conversations require vulnerability and honesty. They're worth having.
 
 ---
 
-*→ See [[01 - Emotional Changes During Pregnancy]] · [[03 - Partner Support & Communication]] · [[Parenting Philosophy Overview]] · [[02 - Postpartum Mental Health]]*
+*→ See [[01 - Emotional Changes During Pregnancy]] · [[03 - Partner Support & Communication]] · [[01 - Parenting Style Overview]] · [[02 - Postpartum Mental Health]]*

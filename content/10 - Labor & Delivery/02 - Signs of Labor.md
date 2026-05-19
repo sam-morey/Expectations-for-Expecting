@@ -2,8 +2,6 @@
 
 ---
 
-# Signs of Labor
-
 Knowing the difference between prelabor signs, false labor, and true labor reduces unnecessary trips to the hospital — and prevents staying home too long.
 
 ---

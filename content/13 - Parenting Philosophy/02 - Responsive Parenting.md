@@ -2,8 +2,6 @@
 
 ---
 
-# Responsive Parenting
-
 Responsive parenting means noticing and sensitively responding to a child's signals, needs, and emotional states. It is the foundation of secure attachment and is supported by decades of developmental research.
 
 ---

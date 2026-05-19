@@ -2,8 +2,6 @@
 
 ---
 
-# Fetal Development Overview
-
 From a single cell to a fully formed human being in 40 weeks — fetal development follows a precise, orchestrated sequence. Understanding the stages provides context for why timing, nutrition, and exposure avoidance matter when they do.
 
 ---

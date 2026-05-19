@@ -2,8 +2,6 @@
 
 ---
 
-# When to Call Your Doctor
-
 Knowing what's a normal symptom vs. a warning sign is one of the most important things to understand during pregnancy. When in doubt, call — providers would rather take a reassurance call than have a serious complication go unreported.
 
 ---

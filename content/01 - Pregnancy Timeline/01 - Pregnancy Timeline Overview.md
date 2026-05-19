@@ -2,8 +2,6 @@
 
 ---
 
-# Pregnancy Timeline Overview
-
 Pregnancy is divided into three trimesters across approximately 40 weeks, counted from the first day of the last menstrual period (LMP). Full term is 39–40 weeks; the range 37–42 weeks is considered normal.
 
 ---

@@ -2,8 +2,6 @@
 
 ---
 
-# Fetal Growth Chart
-
 Reference chart for estimated fetal size and weight by week. All measurements are averages — significant variation is normal.
 
 ---

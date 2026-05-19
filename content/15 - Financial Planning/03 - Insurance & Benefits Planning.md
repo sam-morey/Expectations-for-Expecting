@@ -2,8 +2,6 @@
 
 ---
 
-# Insurance & Benefits Planning
-
 Understanding your insurance and employment benefits before the baby arrives prevents expensive surprises and ensures you capture everything you're entitled to.
 
 ---

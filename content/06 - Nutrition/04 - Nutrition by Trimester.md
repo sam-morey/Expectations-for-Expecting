@@ -2,8 +2,6 @@
 
 ---
 
-# Nutrition by Trimester
-
 Nutritional priorities shift across the three trimesters to match the most critical phases of fetal development and maternal change.
 
 ---

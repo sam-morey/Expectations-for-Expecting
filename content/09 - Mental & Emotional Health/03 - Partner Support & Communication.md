@@ -2,8 +2,6 @@
 
 ---
 
-# Partner Support & Communication
-
 The partner's role during pregnancy is often underestimated — and the quality of support and communication during pregnancy directly predicts relationship satisfaction after the baby arrives. This is a critical investment period for the relationship.
 
 ---

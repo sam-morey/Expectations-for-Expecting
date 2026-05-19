@@ -2,8 +2,6 @@
 
 ---
 
-# Exercise During Pregnancy Overview
-
 Exercise during pregnancy is safe, beneficial, and recommended for most women. The goal shifts from performance or fat loss to health maintenance, managing symptoms, preparing for labor, and supporting postpartum recovery.
 
 ---

@@ -2,8 +2,6 @@
 
 ---
 
-# Ultrasound Guide
-
 Ultrasound is the primary imaging tool of prenatal care. It uses high-frequency sound waves (no radiation) to produce images of the developing baby, placenta, and uterine environment.
 
 ---

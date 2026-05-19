@@ -1,8 +1,6 @@
-← [[03 - Insurance & Benefits Planning]] | [[Home]]
+← [[03 - Insurance & Benefits Planning]] | [[Home]] | [[05 - Transitioning Back to Work]] →
 
 ---
-
-# Childcare Costs & Planning
 
 Childcare is typically the largest new expense a family faces. Planning early is critical — quality infant care has waitlists of 6–18 months in most cities.
 
@@ -85,4 +83,4 @@ Infant care costs vary enormously by location:
 
 ---
 
-*→ See [[01 - Financial Impact of a Baby]] · [[02 - Budgeting for Baby]] · [[03 - Insurance & Benefits Planning]]*
+*→ See [[01 - Financial Impact of a Baby]] · [[02 - Budgeting for Baby]] · [[03 - Insurance & Benefits Planning]] · [[05 - Transitioning Back to Work]]*

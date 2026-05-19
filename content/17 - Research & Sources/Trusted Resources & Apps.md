@@ -1,5 +1,3 @@
-# Trusted Resources & Apps
-
 Curated reference for evidence-based pregnancy and parenting information — and tools for tracking, community, and information.
 
 ---

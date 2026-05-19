@@ -2,8 +2,6 @@
 
 ---
 
-# Second Trimester
-
 **Weeks 14–27**
 
 The second trimester is often called the "honeymoon" of pregnancy. Nausea typically subsides, energy returns, and the pregnancy becomes more visible. It's also when parents often feel the baby move for the first time.

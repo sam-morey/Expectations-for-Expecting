@@ -1,8 +1,6 @@
-← [[03 - Dividing Labor After Baby]] | [[Home]]
+← [[03 - Dividing Labor After Baby]] | [[Home]] | [[05 - Managing Family & Visitors]] →
 
 ---
-
-# Intimacy During Pregnancy
 
 Intimacy — physical, emotional, and sexual — changes during pregnancy. Navigating these changes openly is one of the most important things a couple can do for their relationship.
 
@@ -77,4 +75,4 @@ The postpartum period brings its own intimacy challenges:
 
 ---
 
-*→ See [[01 - Relationship During Pregnancy]] · [[02 - Preparing Your Partnership for Parenthood]] · [[01 - Postpartum Recovery Overview]]*
+*→ See [[01 - Relationship During Pregnancy]] · [[02 - Preparing Your Partnership for Parenthood]] · [[05 - Managing Family & Visitors]] · [[01 - Postpartum Recovery Overview]]*

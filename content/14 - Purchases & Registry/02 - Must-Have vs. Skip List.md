@@ -2,8 +2,6 @@
 
 ---
 
-# Must-Have vs. Skip List
-
 A curated reference for what's worth buying, what to borrow or buy used, and what to skip entirely.
 
 ---

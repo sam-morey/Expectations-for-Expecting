@@ -2,8 +2,6 @@
 
 ---
 
-# Baby Gear Essentials
-
 A curated guide to what you actually need vs. what the baby industry wants you to buy. Most babies need very little — a safe place to sleep, food, warmth, and human contact.
 
 ---

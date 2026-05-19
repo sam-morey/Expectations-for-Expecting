@@ -2,8 +2,6 @@
 
 ---
 
-# Key Milestones & Dates
-
 Personal tracking log for pregnancy milestones and important dates.
 
 ---

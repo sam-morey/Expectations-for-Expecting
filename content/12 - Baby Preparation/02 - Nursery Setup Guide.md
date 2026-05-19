@@ -2,8 +2,6 @@
 
 ---
 
-# Nursery Setup Guide
-
 The nursery doesn't need to be perfect before baby arrives — but having a functional sleep and care space ready by week 36 is the goal. Function matters more than aesthetics.
 
 ---
@@ -81,4 +79,4 @@ Wash all baby clothing, bedding, and washcloths before use in baby-specific frag
 
 ---
 
-*→ See [[01 - Safe Sleep Guidelines]] · [[03 - Baby Gear Essentials]] · [[Purchases & Registry Guide]]*
+*→ See [[01 - Safe Sleep Guidelines]] · [[03 - Baby Gear Essentials]] · [[01 - Registry Guide]]*

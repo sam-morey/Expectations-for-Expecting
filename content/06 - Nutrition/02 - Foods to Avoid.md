@@ -2,8 +2,6 @@
 
 ---
 
-# Foods to Avoid During Pregnancy
-
 Certain foods pose genuine risks during pregnancy — from foodborne illness (dangerous because immune function is modified in pregnancy), mercury toxicity, or direct fetal harm. This is a practical reference, not a reason for anxiety about every meal.
 
 ---

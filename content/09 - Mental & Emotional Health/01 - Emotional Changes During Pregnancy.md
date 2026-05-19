@@ -2,8 +2,6 @@
 
 ---
 
-# Emotional Changes During Pregnancy
-
 Pregnancy is one of the most emotionally complex periods of life. Hormonal shifts, life identity changes, anticipatory anxiety, and profound joy can all coexist — sometimes within the same hour.
 
 ---
