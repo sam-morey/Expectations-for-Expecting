@@ -106,6 +106,7 @@ title: Expectations for Expecting
 > | [[02 - Prenatal Tests & Screenings]] | NIPT, anatomy scan, glucose test, GBS — complete reference |
 > | [[03 - Ultrasound Guide]] | All ultrasound types; what the anatomy scan assesses |
 > | [[04 - Genetic Testing Overview]] | Chromosomal conditions; screening vs. diagnostic; carrier screening |
+> | [[05 - Miscarriage]] | Types, causes, risk factors, prevention, management, and recovery |
 
 ---
 
