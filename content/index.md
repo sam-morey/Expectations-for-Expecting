@@ -1,9 +1,6 @@
 ---
 title: Expectations for Expecting
 ---
-
-# Expectations for Expecting
-
 *Your personal knowledge system for pregnancy — from positive test to first weeks home with your baby.*
 
 ---
